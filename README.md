@@ -26,10 +26,13 @@ Outside of work, I enjoy **reading**, **writing about books**, **playing volleyb
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=orange) 
 
 ## 🏢 Work Experience
+**[The Digital Lab, BC Children's Hospital](https://www.linkedin.com/company/bcch-digital-lab/?originalSubdomain=ca)**
+- **Data Scientist**
+  
 **[STEMCELL Technologies](https://www.linkedin.com/company/stemcell-technologies/posts/?feedView=all)**
-- **Senior Custom Product Program Associate** *(Jan 2024 - Jun 2024)*
-- **Senior Operations Management Program Associate** *(Aug 2023 - Jan 2024)*
-- **Manufacturing Operations Coordinator** *(May 2021 - Aug 2023)*
+- **Senior Custom Product Program Associate** 
+- **Senior Operations Management Program Associate** 
+- **Manufacturing Operations Coordinator** 
 
 ## 🚀 Projects
 - **[Pharmaceutical Spending Dashboard](https://github.com/UBC-MDS/DSCI-532_2025_17_pharma_spend_dashboard)** | *Dash*  
@@ -48,8 +51,8 @@ Outside of work, I enjoy **reading**, **writing about books**, **playing volleyb
   Developed a plugin-based dashboard for personalized reading analytics using Goodreads account exports
 
 ## 🎓 Education
-* Master of Data Science | The University of British Columbia (Completion June 2025)
-* Bachelor of Applied Science in Chemical and Biological Engineering | The University of British Columbia (May 2021)
+* Master of Data Science | The University of British Columbia 
+* Bachelor of Applied Science in Chemical and Biological Engineering | The University of British Columbia 
 
 ## ⚡ Fun facts:
 * My first ever job was dancing in a yoghurt commercial at age of 15
