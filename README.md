@@ -36,9 +36,11 @@ Outside of work, I enjoy **reading**, **writing about books**, **playing volleyb
 
 ## Projects
 - **[styleit4me - Agentic flow for styling help (in progress)](https://github.com/dariakhv/styleit4me_agentic_flow)** | *Agentic, n8n, CLIP*
-  Building an agentic workflow using n8n that lets users upload clothing images via Telegram chat. The workflow combines visual understanding (CLIP / OpenAI Vision), search retrieval (Pinterest / Google CSE), and LLM-based reasoning to deliver context-aware outfit suggestions
+
+  Building an agentic workflow using n8n that lets users upload clothing images via Telegram chat. The workflow combines visual understanding (CLIP / OpenAI Vision), search retrieval (Pinterest / Google CSE), and LLM-based reasoning to      deliver context-aware outfit suggestions
 
 - **[saas churn prediction](https://github.com/dariakhv/saas_churn_subscription)** | *PgAdmin, Ensemble Model*
+
   This project analyzes fictional customer retention and churn patterns, showcasing end-to-end data analytics skills from data management with PostgreSQL, to SQL-based cohort analysis, Python-based visualization, and predictive modeling with Random Forest.
 
 - **[Pharmaceutical Spending Dashboard](https://github.com/UBC-MDS/DSCI-532_2025_17_pharma_spend_dashboard)** | *Dash*  
