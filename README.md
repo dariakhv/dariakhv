@@ -1,10 +1,10 @@
-# Hello, I'm Daria! 👋
+# Hello, I'm Daria! 
 
 I'm a **Project Manager** with over 3 years of experience in the biotechnology space. Passionate about the intersection of **data and biology**, I believe that great tools drive efficient research — from state-of-the-art pipettes to cutting-edge computational models. Soon to hold a **Master’s in Data Science** from UBC, I’m dedicated to equipping the biotech space with the tools it needs to push boundaries.
 
 Outside of work, I enjoy **reading**, **writing about books**, **playing volleyball**, and **exploring new cafes and restaurants**.
 
-## 🛠️ Data Science ToolBox
+## Data Science ToolBox
 
 ### **Programming Languages**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
@@ -25,7 +25,7 @@ Outside of work, I enjoy **reading**, **writing about books**, **playing volleyb
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white) 
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=orange) 
 
-## 🏢 Work Experience
+## Work Experience
 **[The Digital Lab, BC Children's Hospital](https://www.linkedin.com/company/bcch-digital-lab/?originalSubdomain=ca)**
 - **Data Scientist**
   
@@ -34,7 +34,13 @@ Outside of work, I enjoy **reading**, **writing about books**, **playing volleyb
 - **Senior Operations Management Program Associate** 
 - **Manufacturing Operations Coordinator** 
 
-## 🚀 Projects
+## Projects
+- **[styleit4me - Agentic flow for styling help (in progress)](https://github.com/dariakhv/styleit4me_agentic_flow)** | *Agentic, n8n, CLIP*
+  Building an agentic workflow using n8n that lets users upload clothing images via Telegram chat. The workflow combines visual understanding (CLIP / OpenAI Vision), search retrieval (Pinterest / Google CSE), and LLM-based reasoning to deliver context-aware outfit suggestions
+
+- **[saas churn prediction](https://github.com/dariakhv/saas_churn_subscription)** | *PgAdmin, Ensemble Model*
+  This project analyzes fictional customer retention and churn patterns, showcasing end-to-end data analytics skills from data management with PostgreSQL, to SQL-based cohort analysis, Python-based visualization, and predictive modeling with Random Forest.
+
 - **[Pharmaceutical Spending Dashboard](https://github.com/UBC-MDS/DSCI-532_2025_17_pharma_spend_dashboard)** | *Dash*  
   Built an interactive dashboard using Dash to visualize pharmaceutical drug spending across the world.
 
